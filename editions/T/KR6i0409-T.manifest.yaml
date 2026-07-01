@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0409/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0409/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說舊城喻經
+  identifiers:
+    krp: KR6i0409
+    cbeta: T16n0715
+    cbeta_old_id: T16n0715
+    authorityid: CA0001877
+    json_key: T0715
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0715.xml
+    old_id: T16n0715
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0409_000-T.yaml, hash: 'sha256:32c60c68ae64b0ef5e712bb3308e76f49e39ca9ad8e7ffce088d4ff75308dcf9'}
+  - {seq: 1, filename: KR6i0409_001-T.yaml, hash: 'sha256:6a656df052a3517b5ce9eaefeb176f3d2fd23b56d82650e0f10522f5f7db1cde'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0409_000-T.markers.yaml, hash: 'sha256:fa6c896ff4847332b2ddcd78ff85cb7781ae677233037c7140425abcda1034f5'}
+  - {seq: 1, role: markers, filename: assets/KR6i0409_001-T.markers.yaml, hash: 'sha256:03e1f9aae9e82e2006d8144d377e39e44537c313c7a258a4cdc707ec159b1826'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0409_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2007
+  label: 佛說舊城喻經
+  type: juan
+  level: 1
+hash: sha256:dc6f53cdcea0bc610ba805930dd724b29fbe620a65c294d82b6123bebb8ba8bb

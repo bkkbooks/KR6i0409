@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6i0409/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6i0409_T_000-0829a, 'n': 0829a, ed: T, source_xml_id: T16.0715.0829a}
+  - {type: line-break, offset: 0, content: '', id: KR6i0409_T_000-0829a01, ed: T, 'n': 0829a01}
+  - {type: line-break, offset: 0, content: '', id: KR6i0409_T_000-0829a02, ed: T, 'n': 0829a02}
+  - {type: line-break, offset: 0, content: '', id: KR6i0409_T_000-0829a03, ed: T, 'n': 0829a03}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0409_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0409_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0409_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0409_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0409_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0409_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '[', id: KR6i0409_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0409_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0409_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: s, id: KR6i0409_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0409_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0409_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0409_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: '3', id: KR6i0409_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: ',', id: KR6i0409_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0409_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0409_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0409_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6i0409_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6i0409_T_000-0829a04, ed: T, 'n': 0829a04}
+  body: []
+  back: []
+hash: sha256:fa6c896ff4847332b2ddcd78ff85cb7781ae677233037c7140425abcda1034f5

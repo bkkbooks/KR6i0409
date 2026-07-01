@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0409/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說舊城喻經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0715.xml
+    old_id: T16n0715
+hash: sha256:32c60c68ae64b0ef5e712bb3308e76f49e39ca9ad8e7ffce088d4ff75308dcf9

@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6i0409/v1
+canonical_location: https://kanripo.org/bkk/KR6i0409/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說舊城喻經
+  identifiers:
+    alt_id:
+    - T16n0715
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0715.xml
+    old_id: T16n0715
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0409_000.yaml, hash: 'sha256:32c60c68ae64b0ef5e712bb3308e76f49e39ca9ad8e7ffce088d4ff75308dcf9'}
+  - {seq: 1, filename: KR6i0409_001.yaml, hash: 'sha256:dacacb6360f4cecf3d10f4f3a7cc130fa5745ed9c36a587b6cd8143d3468a1eb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0409_001.markers.yaml, hash: 'sha256:017cba0f11772c5b7a1d72d22a1f63ac92a11900024d188762bc3a06de2a0ddd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0409_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2007
+  label: 佛說舊城喻經
+  type: juan
+  level: 1
+hash: sha256:e339afb32f125f9684f9263761cb604ccba3226f56cc203f3e8a1f416d573d09
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
