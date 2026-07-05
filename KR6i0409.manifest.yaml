@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0409_000.yaml, hash: 'sha256:32c60c68ae64b0ef5e712bb3308e76f49e39ca9ad8e7ffce088d4ff75308dcf9'}
-  - {seq: 1, filename: KR6i0409_001.yaml, hash: 'sha256:dacacb6360f4cecf3d10f4f3a7cc130fa5745ed9c36a587b6cd8143d3468a1eb'}
+  - {seq: 1, filename: KR6i0409_001.yaml, hash: 'sha256:6a656df052a3517b5ce9eaefeb176f3d2fd23b56d82650e0f10522f5f7db1cde'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0409_001.markers.yaml, hash: 'sha256:017cba0f11772c5b7a1d72d22a1f63ac92a11900024d188762bc3a06de2a0ddd'}
+  - {seq: 0, role: markers, filename: assets/KR6i0409_000.markers.yaml, hash: 'sha256:07b1621401a351e0d520e962ab3291038c88bb1cc00d7baf49f8cdc0d4b2a1a8'}
+  - {seq: 1, role: markers, filename: assets/KR6i0409_001.markers.yaml, hash: 'sha256:d5044474710f935befd4ca59f315ad9f1968cbb2be187ca6335e549edb850db3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說舊城喻經
   type: juan
   level: 1
-hash: sha256:e339afb32f125f9684f9263761cb604ccba3226f56cc203f3e8a1f416d573d09
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:19b8fb9688abdf4a40749f1b7cf27f294e6bbb1b9adb92bbc43c2ae8873f5be9
